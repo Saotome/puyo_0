@@ -1,0 +1,8 @@
+name: test_puyo_0
+version: 0.0.1
+description: |
+  An absolute bare-bones web app.
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  browser: any
